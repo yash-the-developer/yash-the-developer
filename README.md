@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yash-the-developer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding 😂
+- 💞️ I’m looking to collaborate with coding 😂
 
 
 <!---
